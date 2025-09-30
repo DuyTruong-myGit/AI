@@ -1,0 +1,6 @@
+torch torchvision torchaudio
+pillow
+pandas scikit-learn
+fastapi uvicorn[standard]
+onnx onnxruntime
+numpy
